@@ -1,0 +1,11 @@
+---
+  - hosts: localhost
+    become: yes
+    vars:
+      date: "{{ lookup('pipe' , ' date +%y-%m-%d-%H%M ') }}"
+    tasks:
+    - name: create directory
+      file: path=/opt/jenkins/jobs-warfile.{{date}} state=directory
+    - name:
+      copy: src=/var/lib/jenkins/jobs/ dest=/opt/jenkins/jobs-warfile.{{date}}
+ 

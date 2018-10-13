@@ -1,0 +1,2585 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<annotation-array>
+  <warning plugin="checkstyle@3.50">
+    <message>File does not end with a newline.</message>
+    <priority>HIGH</priority>
+    <key>4238155621348015754</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>0</start>
+        <end>0</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>0</primaryLineNumber>
+    <fileName>/var/lib/jenkins/workspace/s-project/src/main/resources/validation.properties</fileName>
+    <moduleName></moduleName>
+    <packageName>-</packageName>
+    <category>Checks</category>
+    <type>NewlineAtEndOfFileCheck</type>
+    <contextHashCode>-321208572</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/resources</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>13</build>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message>Line is longer than 80 characters (found 82).</message>
+    <priority>HIGH</priority>
+    <key>4238155621348015690</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>27</start>
+        <end>27</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>27</primaryLineNumber>
+    <fileName>/var/lib/jenkins/workspace/s-project/src/main/java/com/visualpathit/account/validator/UserValidator.java</fileName>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName>com.visualpathit.account.validator</packageName>
+    <category>Sizes</category>
+    <type>LineLengthCheck</type>
+    <contextHashCode>2060172716</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/validator</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>13</build>
+    <authorName>Wahid Khan</authorName>
+    <authorEmail>wkhan@visualpathit.com</authorEmail>
+    <commitId>2d32135979285e1bd16d02580554badbc6e6a2be</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message>File contains tab characters (this is the first instance).</message>
+    <priority>HIGH</priority>
+    <key>4238155621348015657</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>8</start>
+        <end>8</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>8</primaryLineNumber>
+    <fileName>/var/lib/jenkins/workspace/s-project/src/main/java/com/visualpathit/account/service/SecurityServiceImpl.java</fileName>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName>com.visualpathit.account.service</packageName>
+    <category>Whitespace</category>
+    <type>FileTabCharacterCheck</type>
+    <contextHashCode>1246006966</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/service</pathName>
+    <primaryColumnStart>1</primaryColumnStart>
+    <primaryColumnEnd>1</primaryColumnEnd>
+    <build>13</build>
+    <authorName>Wahid Khan</authorName>
+    <authorEmail>wahid@gmail.com</authorEmail>
+    <commitId>365103d9d4b8e885c8b8074d06e5a92042113b6c</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message>Missing a Javadoc comment.</message>
+    <priority>HIGH</priority>
+    <key>4238155621348015675</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>22</start>
+        <end>22</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>22</primaryLineNumber>
+    <fileName>/var/lib/jenkins/workspace/s-project/src/main/java/com/visualpathit/account/service/UserServiceImpl.java</fileName>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[3]/packageName"/>
+    <category>Javadoc</category>
+    <type>JavadocVariableCheck</type>
+    <contextHashCode>245678292</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/service</pathName>
+    <primaryColumnStart>5</primaryColumnStart>
+    <primaryColumnEnd>5</primaryColumnEnd>
+    <build>13</build>
+    <authorName>Wahid Khan</authorName>
+    <authorEmail>wkhan@visualpathit.com</authorEmail>
+    <commitId>2d32135979285e1bd16d02580554badbc6e6a2be</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message>Missing package-info.java file.</message>
+    <priority>HIGH</priority>
+    <key>4238155621348015735</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>0</start>
+        <end>0</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>0</primaryLineNumber>
+    <fileName>/var/lib/jenkins/workspace/s-project/src/main/java/com/visualpathit/account/controller/UserController.java</fileName>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName>com.visualpathit.account.controller</packageName>
+    <category>Javadoc</category>
+    <type>JavadocPackageCheck</type>
+    <contextHashCode>-1785873131</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/controller</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>13</build>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message>Name &apos;logger&apos; must match pattern &apos;^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$&apos;.</message>
+    <priority>HIGH</priority>
+    <key>4238155621348015658</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>24</start>
+        <end>24</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>24</primaryLineNumber>
+    <fileName reference="../../warning[3]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[3]/packageName"/>
+    <category>Naming</category>
+    <type>ConstantNameCheck</type>
+    <contextHashCode>-77571993</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/service</pathName>
+    <primaryColumnStart>33</primaryColumnStart>
+    <primaryColumnEnd>33</primaryColumnEnd>
+    <build>13</build>
+    <authorName>Wahid Khan</authorName>
+    <authorEmail>wahid@gmail.com</authorEmail>
+    <commitId>365103d9d4b8e885c8b8074d06e5a92042113b6c</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message reference="../../warning[2]/message"/>
+    <priority>HIGH</priority>
+    <key>4238155621348015694</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>35</start>
+        <end>35</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>35</primaryLineNumber>
+    <fileName reference="../../warning[2]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[2]/packageName"/>
+    <category>Sizes</category>
+    <type>LineLengthCheck</type>
+    <contextHashCode>1746528569</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/validator</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>13</build>
+    <authorName>Wahid Khan</authorName>
+    <authorEmail>wkhan@visualpathit.com</authorEmail>
+    <commitId>2d32135979285e1bd16d02580554badbc6e6a2be</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message>Method &apos;getId&apos; is not designed for extension - needs to be abstract, final or empty.</message>
+    <priority>HIGH</priority>
+    <key>4238155621348015713</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>23</start>
+        <end>23</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>23</primaryLineNumber>
+    <fileName>/var/lib/jenkins/workspace/s-project/src/main/java/com/visualpathit/account/model/User.java</fileName>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName>com.visualpathit.account.model</packageName>
+    <category>Design</category>
+    <type>DesignForExtensionCheck</type>
+    <contextHashCode>-617276332</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/model</pathName>
+    <primaryColumnStart>5</primaryColumnStart>
+    <primaryColumnEnd>5</primaryColumnEnd>
+    <build>13</build>
+    <authorName>Wahid Khan</authorName>
+    <authorEmail>wkhan@visualpathit.com</authorEmail>
+    <commitId>2d32135979285e1bd16d02580554badbc6e6a2be</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message>&apos;users&apos; hides a field.</message>
+    <priority>HIGH</priority>
+    <key>4238155621348015710</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>51</start>
+        <end>51</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>51</primaryLineNumber>
+    <fileName>/var/lib/jenkins/workspace/s-project/src/main/java/com/visualpathit/account/model/Role.java</fileName>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[8]/packageName"/>
+    <category>Coding</category>
+    <type>HiddenFieldCheck</type>
+    <contextHashCode>-441136773</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/model</pathName>
+    <primaryColumnStart>42</primaryColumnStart>
+    <primaryColumnEnd>42</primaryColumnEnd>
+    <build>13</build>
+    <authorName>Wahid Khan</authorName>
+    <authorEmail>wahid@gmail.com</authorEmail>
+    <commitId>1b829d9c8568b455a8c2e5cfa485acb96ad340eb</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message>Method &apos;supports&apos; is not designed for extension - needs to be abstract, final or empty.</message>
+    <priority>HIGH</priority>
+    <key>4238155621348015684</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>17</start>
+        <end>17</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>17</primaryLineNumber>
+    <fileName reference="../../warning[2]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[2]/packageName"/>
+    <category>Design</category>
+    <type>DesignForExtensionCheck</type>
+    <contextHashCode>1785683764</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/validator</pathName>
+    <primaryColumnStart>5</primaryColumnStart>
+    <primaryColumnEnd>5</primaryColumnEnd>
+    <build>13</build>
+    <authorName>Wahid Khan</authorName>
+    <authorEmail>wkhan@visualpathit.com</authorEmail>
+    <commitId>2d32135979285e1bd16d02580554badbc6e6a2be</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message reference="../../warning[2]/message"/>
+    <priority>HIGH</priority>
+    <key>4238155621348015750</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>54</start>
+        <end>54</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>54</primaryLineNumber>
+    <fileName reference="../../warning[5]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[5]/packageName"/>
+    <category>Sizes</category>
+    <type>LineLengthCheck</type>
+    <contextHashCode>-671700335</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/controller</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>13</build>
+    <authorName>Wahid Khan</authorName>
+    <authorEmail>wkhan@visualpathit.com</authorEmail>
+    <commitId>2d32135979285e1bd16d02580554badbc6e6a2be</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message>Using the &apos;.*&apos; form of import should be avoided - javax.persistence.*.</message>
+    <priority>HIGH</priority>
+    <key>4238155621348015699</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>3</start>
+        <end>3</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>3</primaryLineNumber>
+    <fileName reference="../../warning[9]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[8]/packageName"/>
+    <category>Imports</category>
+    <type>AvoidStarImportCheck</type>
+    <contextHashCode>-1191534323</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/model</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>13</build>
+    <authorName>Wahid Khan</authorName>
+    <authorEmail>wkhan@visualpathit.com</authorEmail>
+    <commitId>2d32135979285e1bd16d02580554badbc6e6a2be</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message>Parameter errors should be final.</message>
+    <priority>HIGH</priority>
+    <key>4238155621348015688</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>23</start>
+        <end>23</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>23</primaryLineNumber>
+    <fileName reference="../../warning[2]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[2]/packageName"/>
+    <category>Checks</category>
+    <type>FinalParametersCheck</type>
+    <contextHashCode>-677609998</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/validator</pathName>
+    <primaryColumnStart>36</primaryColumnStart>
+    <primaryColumnEnd>36</primaryColumnEnd>
+    <build>13</build>
+    <authorName>Wahid Khan</authorName>
+    <authorEmail>wkhan@visualpathit.com</authorEmail>
+    <commitId>2d32135979285e1bd16d02580554badbc6e6a2be</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message reference="../../warning[4]/message"/>
+    <priority>HIGH</priority>
+    <key>4238155621348015733</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>7</start>
+        <end>7</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>7</primaryLineNumber>
+    <fileName>/var/lib/jenkins/workspace/s-project/src/main/java/com/visualpathit/account/repository/UserRepository.java</fileName>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName>com.visualpathit.account.repository</packageName>
+    <category>Javadoc</category>
+    <type>JavadocTypeCheck</type>
+    <contextHashCode>1680187355</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/repository</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>13</build>
+    <authorName>Wahid Khan</authorName>
+    <authorEmail>wkhan@visualpathit.com</authorEmail>
+    <commitId>2d32135979285e1bd16d02580554badbc6e6a2be</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message>Parameter o should be final.</message>
+    <priority>HIGH</priority>
+    <key>4238155621348015687</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>23</start>
+        <end>23</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>23</primaryLineNumber>
+    <fileName reference="../../warning[2]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[2]/packageName"/>
+    <category>Checks</category>
+    <type>FinalParametersCheck</type>
+    <contextHashCode>-677609998</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/validator</pathName>
+    <primaryColumnStart>26</primaryColumnStart>
+    <primaryColumnEnd>26</primaryColumnEnd>
+    <build>13</build>
+    <authorName>Wahid Khan</authorName>
+    <authorEmail>wkhan@visualpathit.com</authorEmail>
+    <commitId>2d32135979285e1bd16d02580554badbc6e6a2be</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message reference="../../warning[5]/message"/>
+    <priority>HIGH</priority>
+    <key>4238155621348015681</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>0</start>
+        <end>0</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>0</primaryLineNumber>
+    <fileName reference="../../warning[2]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[2]/packageName"/>
+    <category>Javadoc</category>
+    <type>JavadocPackageCheck</type>
+    <contextHashCode>1541041349</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/validator</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>13</build>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message>Parameter users should be final.</message>
+    <priority>HIGH</priority>
+    <key>4238155621348015709</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>51</start>
+        <end>51</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>51</primaryLineNumber>
+    <fileName reference="../../warning[9]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[8]/packageName"/>
+    <category>Checks</category>
+    <type>FinalParametersCheck</type>
+    <contextHashCode>-1934435093</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/model</pathName>
+    <primaryColumnStart>32</primaryColumnStart>
+    <primaryColumnEnd>32</primaryColumnEnd>
+    <build>13</build>
+    <authorName>Wahid Khan</authorName>
+    <authorEmail>wahid@gmail.com</authorEmail>
+    <commitId>1b829d9c8568b455a8c2e5cfa485acb96ad340eb</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message>&apos;id&apos; hides a field.</message>
+    <priority>HIGH</priority>
+    <key>4238155621348015714</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>30</start>
+        <end>30</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>30</primaryLineNumber>
+    <fileName reference="../../warning[8]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[8]/packageName"/>
+    <category>Coding</category>
+    <type>HiddenFieldCheck</type>
+    <contextHashCode>591174551</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/model</pathName>
+    <primaryColumnStart>40</primaryColumnStart>
+    <primaryColumnEnd>40</primaryColumnEnd>
+    <build>13</build>
+    <authorName>Wahid Khan</authorName>
+    <authorEmail>wahid@gmail.com</authorEmail>
+    <commitId>1b829d9c8568b455a8c2e5cfa485acb96ad340eb</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message reference="../../warning[4]/message"/>
+    <priority>HIGH</priority>
+    <key>4238155621348015668</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>19</start>
+        <end>19</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>19</primaryLineNumber>
+    <fileName>/var/lib/jenkins/workspace/s-project/src/main/java/com/visualpathit/account/service/UserDetailsServiceImpl.java</fileName>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[3]/packageName"/>
+    <category>Javadoc</category>
+    <type>JavadocVariableCheck</type>
+    <contextHashCode>1044595633</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/service</pathName>
+    <primaryColumnStart>5</primaryColumnStart>
+    <primaryColumnEnd>5</primaryColumnEnd>
+    <build>13</build>
+    <authorName>Wahid Khan</authorName>
+    <authorEmail>wkhan@visualpathit.com</authorEmail>
+    <commitId>2d32135979285e1bd16d02580554badbc6e6a2be</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message reference="../../warning[3]/message"/>
+    <priority>HIGH</priority>
+    <key>4238155621348015700</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>9</start>
+        <end>9</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>9</primaryLineNumber>
+    <fileName reference="../../warning[9]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[8]/packageName"/>
+    <category>Whitespace</category>
+    <type>FileTabCharacterCheck</type>
+    <contextHashCode>235175422</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/model</pathName>
+    <primaryColumnStart>1</primaryColumnStart>
+    <primaryColumnEnd>1</primaryColumnEnd>
+    <build>13</build>
+    <authorName>Wahid Khan</authorName>
+    <authorEmail>wahid@gmail.com</authorEmail>
+    <commitId>768f43709fed800c0a800355137d67508b190edb</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message>&apos;userEmail&apos; hides a field.</message>
+    <priority>HIGH</priority>
+    <key>4238155621348015723</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>62</start>
+        <end>62</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>62</primaryLineNumber>
+    <fileName reference="../../warning[8]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[8]/packageName"/>
+    <category>Coding</category>
+    <type>HiddenFieldCheck</type>
+    <contextHashCode>2139344750</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/model</pathName>
+    <primaryColumnStart>53</primaryColumnStart>
+    <primaryColumnEnd>53</primaryColumnEnd>
+    <build>13</build>
+    <authorName>Wahid Khan</authorName>
+    <authorEmail>wahid@gmail.com</authorEmail>
+    <commitId>1b829d9c8568b455a8c2e5cfa485acb96ad340eb</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message>Line is longer than 80 characters (found 86).</message>
+    <priority>HIGH</priority>
+    <key>4238155621348015742</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>36</start>
+        <end>36</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>36</primaryLineNumber>
+    <fileName reference="../../warning[5]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[5]/packageName"/>
+    <category>Sizes</category>
+    <type>LineLengthCheck</type>
+    <contextHashCode>1916731037</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/controller</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>13</build>
+    <authorName>WK</authorName>
+    <authorEmail>wahid@gmail.com</authorEmail>
+    <commitId>cf20469d5b797ecef3547ad7a913022b55f4d385</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message reference="../../warning[4]/message"/>
+    <priority>HIGH</priority>
+    <key>4238155621348015730</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>7</start>
+        <end>7</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>7</primaryLineNumber>
+    <fileName>/var/lib/jenkins/workspace/s-project/src/main/java/com/visualpathit/account/repository/RoleRepository.java</fileName>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[14]/packageName"/>
+    <category>Javadoc</category>
+    <type>JavadocTypeCheck</type>
+    <contextHashCode>1537462</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/repository</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>13</build>
+    <authorName>Wahid Khan</authorName>
+    <authorEmail>wkhan@visualpathit.com</authorEmail>
+    <commitId>2d32135979285e1bd16d02580554badbc6e6a2be</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message reference="../../warning[3]/message"/>
+    <priority>HIGH</priority>
+    <key>4238155621348015680</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>7</start>
+        <end>7</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>7</primaryLineNumber>
+    <fileName>/var/lib/jenkins/workspace/s-project/src/main/java/com/visualpathit/account/service/UserService.java</fileName>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[3]/packageName"/>
+    <category>Whitespace</category>
+    <type>FileTabCharacterCheck</type>
+    <contextHashCode>-2109281120</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/service</pathName>
+    <primaryColumnStart>1</primaryColumnStart>
+    <primaryColumnEnd>1</primaryColumnEnd>
+    <build>13</build>
+    <authorName>Wahid Khan</authorName>
+    <authorEmail>wahid@gmail.com</authorEmail>
+    <commitId>365103d9d4b8e885c8b8074d06e5a92042113b6c</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message>&apos;+&apos; is not preceded with whitespace.</message>
+    <priority>HIGH</priority>
+    <key>4238155621348015745</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>43</start>
+        <end>43</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>43</primaryLineNumber>
+    <fileName reference="../../warning[5]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[5]/packageName"/>
+    <category>Whitespace</category>
+    <type>WhitespaceAroundCheck</type>
+    <contextHashCode>-602307906</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/controller</pathName>
+    <primaryColumnStart>39</primaryColumnStart>
+    <primaryColumnEnd>39</primaryColumnEnd>
+    <build>13</build>
+    <authorName>Wahid Khan</authorName>
+    <authorEmail>wkhan@visualpathit.com</authorEmail>
+    <commitId>2d32135979285e1bd16d02580554badbc6e6a2be</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message reference="../../warning[3]/message"/>
+    <priority>HIGH</priority>
+    <key>4238155621348015678</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>5</start>
+        <end>5</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>5</primaryLineNumber>
+    <fileName>/var/lib/jenkins/workspace/s-project/src/main/java/com/visualpathit/account/service/SecurityService.java</fileName>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[3]/packageName"/>
+    <category>Whitespace</category>
+    <type>FileTabCharacterCheck</type>
+    <contextHashCode>-404049871</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/service</pathName>
+    <primaryColumnStart>1</primaryColumnStart>
+    <primaryColumnEnd>1</primaryColumnEnd>
+    <build>13</build>
+    <authorName>Wahid Khan</authorName>
+    <authorEmail>wahid@gmail.com</authorEmail>
+    <commitId>365103d9d4b8e885c8b8074d06e5a92042113b6c</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message>&apos;8&apos; is a magic number.</message>
+    <priority>HIGH</priority>
+    <key>4238155621348015695</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>35</start>
+        <end>35</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>35</primaryLineNumber>
+    <fileName reference="../../warning[2]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[2]/packageName"/>
+    <category>Coding</category>
+    <type>MagicNumberCheck</type>
+    <contextHashCode>-292256867</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/validator</pathName>
+    <primaryColumnStart>43</primaryColumnStart>
+    <primaryColumnEnd>43</primaryColumnEnd>
+    <build>13</build>
+    <authorName>Wahid Khan</authorName>
+    <authorEmail>wkhan@visualpathit.com</authorEmail>
+    <commitId>2d32135979285e1bd16d02580554badbc6e6a2be</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message reference="../../warning[18]/message"/>
+    <priority>HIGH</priority>
+    <key>4238155621348015702</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>25</start>
+        <end>25</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>25</primaryLineNumber>
+    <fileName reference="../../warning[9]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[8]/packageName"/>
+    <category>Coding</category>
+    <type>HiddenFieldCheck</type>
+    <contextHashCode>-387794326</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/model</pathName>
+    <primaryColumnStart>40</primaryColumnStart>
+    <primaryColumnEnd>40</primaryColumnEnd>
+    <build>13</build>
+    <authorName>Wahid Khan</authorName>
+    <authorEmail>wahid@gmail.com</authorEmail>
+    <commitId>1b829d9c8568b455a8c2e5cfa485acb96ad340eb</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message reference="../../warning[4]/message"/>
+    <priority>HIGH</priority>
+    <key>4238155621348015673</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>16</start>
+        <end>16</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>16</primaryLineNumber>
+    <fileName reference="../../warning[4]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[3]/packageName"/>
+    <category>Javadoc</category>
+    <type>JavadocVariableCheck</type>
+    <contextHashCode>369528807</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/service</pathName>
+    <primaryColumnStart>5</primaryColumnStart>
+    <primaryColumnEnd>5</primaryColumnEnd>
+    <build>13</build>
+    <authorName>Wahid Khan</authorName>
+    <authorEmail>wkhan@visualpathit.com</authorEmail>
+    <commitId>2d32135979285e1bd16d02580554badbc6e6a2be</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message>Method &apos;getName&apos; is not designed for extension - needs to be abstract, final or empty.</message>
+    <priority>HIGH</priority>
+    <key>4238155621348015704</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>31</start>
+        <end>31</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>31</primaryLineNumber>
+    <fileName reference="../../warning[9]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[8]/packageName"/>
+    <category>Design</category>
+    <type>DesignForExtensionCheck</type>
+    <contextHashCode>-709489184</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/model</pathName>
+    <primaryColumnStart>5</primaryColumnStart>
+    <primaryColumnEnd>5</primaryColumnEnd>
+    <build>13</build>
+    <authorName>Wahid Khan</authorName>
+    <authorEmail>wkhan@visualpathit.com</authorEmail>
+    <commitId>2d32135979285e1bd16d02580554badbc6e6a2be</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message>Line has trailing spaces.</message>
+    <priority>HIGH</priority>
+    <key>4238155621348015741</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>36</start>
+        <end>36</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>36</primaryLineNumber>
+    <fileName reference="../../warning[5]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[5]/packageName"/>
+    <category>Regexp</category>
+    <type>RegexpSinglelineCheck</type>
+    <contextHashCode>810744658</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/controller</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>13</build>
+    <authorName>WK</authorName>
+    <authorEmail>wahid@gmail.com</authorEmail>
+    <commitId>cf20469d5b797ecef3547ad7a913022b55f4d385</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message>&apos;&gt;&apos; is followed by an illegal character.</message>
+    <priority>HIGH</priority>
+    <key>4238155621348015731</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>7</start>
+        <end>7</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>7</primaryLineNumber>
+    <fileName reference="../../warning[23]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[14]/packageName"/>
+    <category>Whitespace</category>
+    <type>GenericWhitespaceCheck</type>
+    <contextHashCode>-368997198</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/repository</pathName>
+    <primaryColumnStart>66</primaryColumnStart>
+    <primaryColumnEnd>66</primaryColumnEnd>
+    <build>13</build>
+    <authorName>Wahid Khan</authorName>
+    <authorEmail>wkhan@visualpathit.com</authorEmail>
+    <commitId>2d32135979285e1bd16d02580554badbc6e6a2be</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message reference="../../warning[4]/message"/>
+    <priority>HIGH</priority>
+    <key>4238155621348015734</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>8</start>
+        <end>8</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>8</primaryLineNumber>
+    <fileName reference="../../warning[14]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[14]/packageName"/>
+    <category>Javadoc</category>
+    <type>JavadocMethodCheck</type>
+    <contextHashCode>1743735832</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/repository</pathName>
+    <primaryColumnStart>5</primaryColumnStart>
+    <primaryColumnEnd>5</primaryColumnEnd>
+    <build>13</build>
+    <authorName>Wahid Khan</authorName>
+    <authorEmail>wkhan@visualpathit.com</authorEmail>
+    <commitId>2d32135979285e1bd16d02580554badbc6e6a2be</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message>Method &apos;getRoles&apos; is not designed for extension - needs to be abstract, final or empty.</message>
+    <priority>HIGH</priority>
+    <key>4238155621348015726</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>79</start>
+        <end>79</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>79</primaryLineNumber>
+    <fileName reference="../../warning[8]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[8]/packageName"/>
+    <category>Design</category>
+    <type>DesignForExtensionCheck</type>
+    <contextHashCode>1860664166</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/model</pathName>
+    <primaryColumnStart>5</primaryColumnStart>
+    <primaryColumnEnd>5</primaryColumnEnd>
+    <build>13</build>
+    <authorName>Wahid Khan</authorName>
+    <authorEmail>wkhan@visualpathit.com</authorEmail>
+    <commitId>2d32135979285e1bd16d02580554badbc6e6a2be</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message>Line is longer than 80 characters (found 101).</message>
+    <priority>HIGH</priority>
+    <key>4238155621348015666</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>42</start>
+        <end>42</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>42</primaryLineNumber>
+    <fileName reference="../../warning[3]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[3]/packageName"/>
+    <category>Sizes</category>
+    <type>LineLengthCheck</type>
+    <contextHashCode>-217085450</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/service</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>13</build>
+    <authorName>Wahid Khan</authorName>
+    <authorEmail>wahid@gmail.com</authorEmail>
+    <commitId>365103d9d4b8e885c8b8074d06e5a92042113b6c</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message>Method &apos;findLoggedInUsername&apos; is not designed for extension - needs to be abstract, final or empty.</message>
+    <priority>HIGH</priority>
+    <key>4238155621348015660</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>27</start>
+        <end>27</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>27</primaryLineNumber>
+    <fileName reference="../../warning[3]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[3]/packageName"/>
+    <category>Design</category>
+    <type>DesignForExtensionCheck</type>
+    <contextHashCode>1282056467</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/service</pathName>
+    <primaryColumnStart>5</primaryColumnStart>
+    <primaryColumnEnd>5</primaryColumnEnd>
+    <build>13</build>
+    <authorName>Wahid Khan</authorName>
+    <authorEmail>wkhan@visualpathit.com</authorEmail>
+    <commitId>2d32135979285e1bd16d02580554badbc6e6a2be</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message reference="../../warning[8]/message"/>
+    <priority>HIGH</priority>
+    <key>4238155621348015701</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>16</start>
+        <end>16</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>16</primaryLineNumber>
+    <fileName reference="../../warning[9]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[8]/packageName"/>
+    <category>Design</category>
+    <type>DesignForExtensionCheck</type>
+    <contextHashCode>2028867429</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/model</pathName>
+    <primaryColumnStart>5</primaryColumnStart>
+    <primaryColumnEnd>5</primaryColumnEnd>
+    <build>13</build>
+    <authorName>Wahid Khan</authorName>
+    <authorEmail>wkhan@visualpathit.com</authorEmail>
+    <commitId>2d32135979285e1bd16d02580554badbc6e6a2be</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message>Line is longer than 80 characters (found 104).</message>
+    <priority>HIGH</priority>
+    <key>4238155621348015656</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>8</start>
+        <end>8</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>8</primaryLineNumber>
+    <fileName reference="../../warning[3]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[3]/packageName"/>
+    <category>Sizes</category>
+    <type>LineLengthCheck</type>
+    <contextHashCode>-240490580</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/service</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>13</build>
+    <authorName>Wahid Khan</authorName>
+    <authorEmail>wahid@gmail.com</authorEmail>
+    <commitId>365103d9d4b8e885c8b8074d06e5a92042113b6c</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message>&apos;6&apos; is a magic number.</message>
+    <priority>HIGH</priority>
+    <key>4238155621348015691</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>27</start>
+        <end>27</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>27</primaryLineNumber>
+    <fileName reference="../../warning[2]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[2]/packageName"/>
+    <category>Coding</category>
+    <type>MagicNumberCheck</type>
+    <contextHashCode>21387280</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/validator</pathName>
+    <primaryColumnStart>43</primaryColumnStart>
+    <primaryColumnEnd>43</primaryColumnEnd>
+    <build>13</build>
+    <authorName>Wahid Khan</authorName>
+    <authorEmail>wkhan@visualpathit.com</authorEmail>
+    <commitId>2d32135979285e1bd16d02580554badbc6e6a2be</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message reference="../../warning[4]/message"/>
+    <priority>HIGH</priority>
+    <key>4238155621348015674</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>19</start>
+        <end>19</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>19</primaryLineNumber>
+    <fileName reference="../../warning[4]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[3]/packageName"/>
+    <category>Javadoc</category>
+    <type>JavadocVariableCheck</type>
+    <contextHashCode>1505135416</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/service</pathName>
+    <primaryColumnStart>5</primaryColumnStart>
+    <primaryColumnEnd>5</primaryColumnEnd>
+    <build>13</build>
+    <authorName>Wahid Khan</authorName>
+    <authorEmail>wkhan@visualpathit.com</authorEmail>
+    <commitId>2d32135979285e1bd16d02580554badbc6e6a2be</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message>Method &apos;getUsers&apos; is not designed for extension - needs to be abstract, final or empty.</message>
+    <priority>HIGH</priority>
+    <key>4238155621348015707</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>41</start>
+        <end>41</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>41</primaryLineNumber>
+    <fileName reference="../../warning[9]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[8]/packageName"/>
+    <category>Design</category>
+    <type>DesignForExtensionCheck</type>
+    <contextHashCode>481296643</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/model</pathName>
+    <primaryColumnStart>5</primaryColumnStart>
+    <primaryColumnEnd>5</primaryColumnEnd>
+    <build>13</build>
+    <authorName>Wahid Khan</authorName>
+    <authorEmail>wkhan@visualpathit.com</authorEmail>
+    <commitId>2d32135979285e1bd16d02580554badbc6e6a2be</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message reference="../../warning[5]/message"/>
+    <priority>HIGH</priority>
+    <key>4238155621348015655</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>0</start>
+        <end>0</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>0</primaryLineNumber>
+    <fileName reference="../../warning[3]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[3]/packageName"/>
+    <category>Javadoc</category>
+    <type>JavadocPackageCheck</type>
+    <contextHashCode>172723254</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/service</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>13</build>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message reference="../../warning[4]/message"/>
+    <priority>HIGH</priority>
+    <key>4238155621348015683</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>14</start>
+        <end>14</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>14</primaryLineNumber>
+    <fileName reference="../../warning[2]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[2]/packageName"/>
+    <category>Javadoc</category>
+    <type>JavadocVariableCheck</type>
+    <contextHashCode>-320488173</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/validator</pathName>
+    <primaryColumnStart>5</primaryColumnStart>
+    <primaryColumnEnd>5</primaryColumnEnd>
+    <build>13</build>
+    <authorName>Wahid Khan</authorName>
+    <authorEmail>wkhan@visualpathit.com</authorEmail>
+    <commitId>2d32135979285e1bd16d02580554badbc6e6a2be</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message>Method &apos;findByUsername&apos; is not designed for extension - needs to be abstract, final or empty.</message>
+    <priority>HIGH</priority>
+    <key>4238155621348015677</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>33</start>
+        <end>33</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>33</primaryLineNumber>
+    <fileName reference="../../warning[4]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[3]/packageName"/>
+    <category>Design</category>
+    <type>DesignForExtensionCheck</type>
+    <contextHashCode>-1976883700</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/service</pathName>
+    <primaryColumnStart>5</primaryColumnStart>
+    <primaryColumnEnd>5</primaryColumnEnd>
+    <build>13</build>
+    <authorName>Wahid Khan</authorName>
+    <authorEmail>wkhan@visualpathit.com</authorEmail>
+    <commitId>2d32135979285e1bd16d02580554badbc6e6a2be</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message reference="../../warning[5]/message"/>
+    <priority>HIGH</priority>
+    <key>4238155621348015698</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>0</start>
+        <end>0</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>0</primaryLineNumber>
+    <fileName reference="../../warning[9]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[8]/packageName"/>
+    <category>Javadoc</category>
+    <type>JavadocPackageCheck</type>
+    <contextHashCode>1082293971</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/model</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>13</build>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message>First sentence should end with a period.</message>
+    <priority>HIGH</priority>
+    <key>4238155621348015717</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>41</start>
+        <end>41</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>41</primaryLineNumber>
+    <fileName reference="../../warning[8]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[8]/packageName"/>
+    <category>Javadoc</category>
+    <type>JavadocStyleCheck</type>
+    <contextHashCode>-1083773512</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/model</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>13</build>
+    <authorName>Wahid Khan</authorName>
+    <authorEmail>wahid@gmail.com</authorEmail>
+    <commitId>1b829d9c8568b455a8c2e5cfa485acb96ad340eb</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message>&apos;username&apos; hides a field.</message>
+    <priority>HIGH</priority>
+    <key>4238155621348015716</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>38</start>
+        <end>38</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>38</primaryLineNumber>
+    <fileName reference="../../warning[8]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[8]/packageName"/>
+    <category>Coding</category>
+    <type>HiddenFieldCheck</type>
+    <contextHashCode>519549272</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/model</pathName>
+    <primaryColumnStart>48</primaryColumnStart>
+    <primaryColumnEnd>48</primaryColumnEnd>
+    <build>13</build>
+    <authorName>Wahid Khan</authorName>
+    <authorEmail>wahid@gmail.com</authorEmail>
+    <commitId>1b829d9c8568b455a8c2e5cfa485acb96ad340eb</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message reference="../../warning[31]/message"/>
+    <priority>HIGH</priority>
+    <key>4238155621348015719</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>49</start>
+        <end>49</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>49</primaryLineNumber>
+    <fileName reference="../../warning[8]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[8]/packageName"/>
+    <category>Regexp</category>
+    <type>RegexpSinglelineCheck</type>
+    <contextHashCode>-815238036</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/model</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>13</build>
+    <authorName>Wahid Khan</authorName>
+    <authorEmail>wahid@gmail.com</authorEmail>
+    <commitId>f78cd55903a4fd56f1debff3c8bc35f471da87c5</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message>&apos;{&apos; is not preceded with whitespace.</message>
+    <priority>HIGH</priority>
+    <key>4238155621348015749</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>53</start>
+        <end>53</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>53</primaryLineNumber>
+    <fileName reference="../../warning[5]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[5]/packageName"/>
+    <category>Whitespace</category>
+    <type>WhitespaceAroundCheck</type>
+    <contextHashCode>-285565293</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/controller</pathName>
+    <primaryColumnStart>27</primaryColumnStart>
+    <primaryColumnEnd>27</primaryColumnEnd>
+    <build>13</build>
+    <authorName>WK</authorName>
+    <authorEmail>wahid@gmail.com</authorEmail>
+    <commitId>cf20469d5b797ecef3547ad7a913022b55f4d385</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message>Method &apos;getPassword&apos; is not designed for extension - needs to be abstract, final or empty.</message>
+    <priority>HIGH</priority>
+    <key>4238155621348015718</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>45</start>
+        <end>45</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>45</primaryLineNumber>
+    <fileName reference="../../warning[8]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[8]/packageName"/>
+    <category>Design</category>
+    <type>DesignForExtensionCheck</type>
+    <contextHashCode>-213476886</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/model</pathName>
+    <primaryColumnStart>5</primaryColumnStart>
+    <primaryColumnEnd>5</primaryColumnEnd>
+    <build>13</build>
+    <authorName>Wahid Khan</authorName>
+    <authorEmail>wkhan@visualpathit.com</authorEmail>
+    <commitId>2d32135979285e1bd16d02580554badbc6e6a2be</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message>&apos;name&apos; hides a field.</message>
+    <priority>HIGH</priority>
+    <key>4238155621348015705</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>35</start>
+        <end>35</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>35</primaryLineNumber>
+    <fileName reference="../../warning[9]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[8]/packageName"/>
+    <category>Coding</category>
+    <type>HiddenFieldCheck</type>
+    <contextHashCode>-1648418983</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/model</pathName>
+    <primaryColumnStart>44</primaryColumnStart>
+    <primaryColumnEnd>44</primaryColumnEnd>
+    <build>13</build>
+    <authorName>Wahid Khan</authorName>
+    <authorEmail>wahid@gmail.com</authorEmail>
+    <commitId>1b829d9c8568b455a8c2e5cfa485acb96ad340eb</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message>&apos;passwordConfirm&apos; hides a field.</message>
+    <priority>HIGH</priority>
+    <key>4238155621348015725</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>75</start>
+        <end>75</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>75</primaryLineNumber>
+    <fileName reference="../../warning[8]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[8]/packageName"/>
+    <category>Coding</category>
+    <type>HiddenFieldCheck</type>
+    <contextHashCode>379579899</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/model</pathName>
+    <primaryColumnStart>55</primaryColumnStart>
+    <primaryColumnEnd>55</primaryColumnEnd>
+    <build>13</build>
+    <authorName>Wahid Khan</authorName>
+    <authorEmail>wahid@gmail.com</authorEmail>
+    <commitId>1b829d9c8568b455a8c2e5cfa485acb96ad340eb</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message>Method &apos;getPasswordConfirm&apos; is not designed for extension - needs to be abstract, final or empty.</message>
+    <priority>HIGH</priority>
+    <key>4238155621348015724</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>67</start>
+        <end>67</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>67</primaryLineNumber>
+    <fileName reference="../../warning[8]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[8]/packageName"/>
+    <category>Design</category>
+    <type>DesignForExtensionCheck</type>
+    <contextHashCode>-1999008446</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/model</pathName>
+    <primaryColumnStart>9</primaryColumnStart>
+    <primaryColumnEnd>9</primaryColumnEnd>
+    <build>13</build>
+    <authorName>Wahid Khan</authorName>
+    <authorEmail>wkhan@visualpathit.com</authorEmail>
+    <commitId>2d32135979285e1bd16d02580554badbc6e6a2be</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message reference="../../warning[31]/message"/>
+    <priority>HIGH</priority>
+    <key>4238155621348015744</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>38</start>
+        <end>38</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>38</primaryLineNumber>
+    <fileName reference="../../warning[5]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[5]/packageName"/>
+    <category>Regexp</category>
+    <type>RegexpSinglelineCheck</type>
+    <contextHashCode>1833673726</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/controller</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>13</build>
+    <authorName>WK</authorName>
+    <authorEmail>wahid@gmail.com</authorEmail>
+    <commitId>cf20469d5b797ecef3547ad7a913022b55f4d385</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message>Line is longer than 80 characters (found 91).</message>
+    <priority>HIGH</priority>
+    <key>4238155621348015748</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>52</start>
+        <end>52</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>52</primaryLineNumber>
+    <fileName reference="../../warning[5]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[5]/packageName"/>
+    <category>Sizes</category>
+    <type>LineLengthCheck</type>
+    <contextHashCode>-1634939101</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/controller</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>13</build>
+    <authorName>WK</authorName>
+    <authorEmail>wahid@gmail.com</authorEmail>
+    <commitId>cf20469d5b797ecef3547ad7a913022b55f4d385</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message>Method &apos;validate&apos; is not designed for extension - needs to be abstract, final or empty.</message>
+    <priority>HIGH</priority>
+    <key>4238155621348015686</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>22</start>
+        <end>22</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>22</primaryLineNumber>
+    <fileName reference="../../warning[2]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[2]/packageName"/>
+    <category>Design</category>
+    <type>DesignForExtensionCheck</type>
+    <contextHashCode>522426544</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/validator</pathName>
+    <primaryColumnStart>5</primaryColumnStart>
+    <primaryColumnEnd>5</primaryColumnEnd>
+    <build>13</build>
+    <authorName>Wahid Khan</authorName>
+    <authorEmail>wkhan@visualpathit.com</authorEmail>
+    <commitId>2d32135979285e1bd16d02580554badbc6e6a2be</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message reference="../../warning[3]/message"/>
+    <priority>HIGH</priority>
+    <key>4238155621348015712</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>10</start>
+        <end>10</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>10</primaryLineNumber>
+    <fileName reference="../../warning[8]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[8]/packageName"/>
+    <category>Whitespace</category>
+    <type>FileTabCharacterCheck</type>
+    <contextHashCode>-779708441</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/model</pathName>
+    <primaryColumnStart>1</primaryColumnStart>
+    <primaryColumnEnd>1</primaryColumnEnd>
+    <build>13</build>
+    <authorName>Wahid Khan</authorName>
+    <authorEmail>wahid@gmail.com</authorEmail>
+    <commitId>12f73e6e3acf8dedf5ccc15a3b4f57586dab6e18</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message>&apos;roles&apos; hides a field.</message>
+    <priority>HIGH</priority>
+    <key>4238155621348015728</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>85</start>
+        <end>85</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>85</primaryLineNumber>
+    <fileName reference="../../warning[8]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[8]/packageName"/>
+    <category>Coding</category>
+    <type>HiddenFieldCheck</type>
+    <contextHashCode>1698723386</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/model</pathName>
+    <primaryColumnStart>48</primaryColumnStart>
+    <primaryColumnEnd>48</primaryColumnEnd>
+    <build>13</build>
+    <authorName>Wahid Khan</authorName>
+    <authorEmail>wahid@gmail.com</authorEmail>
+    <commitId>c5e11054dfc5062e5f1caf4f5d49df2ed750f8e4</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message reference="../../warning[4]/message"/>
+    <priority>HIGH</priority>
+    <key>4238155621348015739</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>24</start>
+        <end>24</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>24</primaryLineNumber>
+    <fileName reference="../../warning[5]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[5]/packageName"/>
+    <category>Javadoc</category>
+    <type>JavadocVariableCheck</type>
+    <contextHashCode>704919627</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/controller</pathName>
+    <primaryColumnStart>5</primaryColumnStart>
+    <primaryColumnEnd>5</primaryColumnEnd>
+    <build>13</build>
+    <authorName>Wahid Khan</authorName>
+    <authorEmail>wkhan@visualpathit.com</authorEmail>
+    <commitId>2d32135979285e1bd16d02580554badbc6e6a2be</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message reference="../../warning[31]/message"/>
+    <priority>HIGH</priority>
+    <key>4238155621348015706</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>39</start>
+        <end>39</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>39</primaryLineNumber>
+    <fileName reference="../../warning[9]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[8]/packageName"/>
+    <category>Regexp</category>
+    <type>RegexpSinglelineCheck</type>
+    <contextHashCode>-1776382503</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/model</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>13</build>
+    <authorName>Wahid Khan</authorName>
+    <authorEmail>wahid@gmail.com</authorEmail>
+    <commitId>f78cd55903a4fd56f1debff3c8bc35f471da87c5</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message>Line is longer than 80 characters (found 131).</message>
+    <priority>HIGH</priority>
+    <key>4238155621348015727</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>80</start>
+        <end>80</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>80</primaryLineNumber>
+    <fileName reference="../../warning[8]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[8]/packageName"/>
+    <category>Sizes</category>
+    <type>LineLengthCheck</type>
+    <contextHashCode>-1997320586</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/model</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>13</build>
+    <authorName>Wahid Khan</authorName>
+    <authorEmail>wkhan@visualpathit.com</authorEmail>
+    <commitId>2d32135979285e1bd16d02580554badbc6e6a2be</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message reference="../../warning[31]/message"/>
+    <priority>HIGH</priority>
+    <key>4238155621348015740</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>26</start>
+        <end>26</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>26</primaryLineNumber>
+    <fileName reference="../../warning[5]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[5]/packageName"/>
+    <category>Regexp</category>
+    <type>RegexpSinglelineCheck</type>
+    <contextHashCode>739805105</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/controller</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>13</build>
+    <authorName>WK</authorName>
+    <authorEmail>wahid@gmail.com</authorEmail>
+    <commitId>cf20469d5b797ecef3547ad7a913022b55f4d385</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message reference="../../warning[2]/message"/>
+    <priority>HIGH</priority>
+    <key>4238155621348015661</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>30</start>
+        <end>30</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>30</primaryLineNumber>
+    <fileName reference="../../warning[3]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[3]/packageName"/>
+    <category>Sizes</category>
+    <type>LineLengthCheck</type>
+    <contextHashCode>-2093048707</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/service</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>13</build>
+    <authorName>Wahid Khan</authorName>
+    <authorEmail>wahid@gmail.com</authorEmail>
+    <commitId>365103d9d4b8e885c8b8074d06e5a92042113b6c</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message reference="../../warning[2]/message"/>
+    <priority>HIGH</priority>
+    <key>4238155621348015689</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>26</start>
+        <end>26</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>26</primaryLineNumber>
+    <fileName reference="../../warning[2]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[2]/packageName"/>
+    <category>Sizes</category>
+    <type>LineLengthCheck</type>
+    <contextHashCode>1683168852</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/validator</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>13</build>
+    <authorName>Wahid Khan</authorName>
+    <authorEmail>wkhan@visualpathit.com</authorEmail>
+    <commitId>2d32135979285e1bd16d02580554badbc6e6a2be</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message reference="../../warning[12]/message"/>
+    <priority>HIGH</priority>
+    <key>4238155621348015711</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>4</start>
+        <end>4</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>4</primaryLineNumber>
+    <fileName reference="../../warning[8]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[8]/packageName"/>
+    <category>Imports</category>
+    <type>AvoidStarImportCheck</type>
+    <contextHashCode>-944876737</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/model</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>13</build>
+    <authorName>Wahid Khan</authorName>
+    <authorEmail>wkhan@visualpathit.com</authorEmail>
+    <commitId>2d32135979285e1bd16d02580554badbc6e6a2be</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message reference="../../warning[2]/message"/>
+    <priority>HIGH</priority>
+    <key>4238155621348015693</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>34</start>
+        <end>34</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>34</primaryLineNumber>
+    <fileName reference="../../warning[2]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[2]/packageName"/>
+    <category>Sizes</category>
+    <type>LineLengthCheck</type>
+    <contextHashCode>-1993690393</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/validator</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>13</build>
+    <authorName>Wahid Khan</authorName>
+    <authorEmail>wkhan@visualpathit.com</authorEmail>
+    <commitId>2d32135979285e1bd16d02580554badbc6e6a2be</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message reference="../../warning[22]/message"/>
+    <priority>HIGH</priority>
+    <key>4238155621348015659</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>25</start>
+        <end>25</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>25</primaryLineNumber>
+    <fileName reference="../../warning[3]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[3]/packageName"/>
+    <category>Sizes</category>
+    <type>LineLengthCheck</type>
+    <contextHashCode>1813927876</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/service</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>13</build>
+    <authorName>Wahid Khan</authorName>
+    <authorEmail>wahid@gmail.com</authorEmail>
+    <commitId>365103d9d4b8e885c8b8074d06e5a92042113b6c</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message>Line is longer than 80 characters (found 105).</message>
+    <priority>HIGH</priority>
+    <key>4238155621348015672</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>35</start>
+        <end>35</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>35</primaryLineNumber>
+    <fileName reference="../../warning[19]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[3]/packageName"/>
+    <category>Sizes</category>
+    <type>LineLengthCheck</type>
+    <contextHashCode>1815072670</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/service</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>13</build>
+    <authorName>Wahid Khan</authorName>
+    <authorEmail>wahid@gmail.com</authorEmail>
+    <commitId>365103d9d4b8e885c8b8074d06e5a92042113b6c</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message>Method &apos;getUserEmail&apos; is not designed for extension - needs to be abstract, final or empty.</message>
+    <priority>HIGH</priority>
+    <key>4238155621348015722</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>58</start>
+        <end>58</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>58</primaryLineNumber>
+    <fileName reference="../../warning[8]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[8]/packageName"/>
+    <category>Design</category>
+    <type>DesignForExtensionCheck</type>
+    <contextHashCode>-727710788</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/model</pathName>
+    <primaryColumnStart>5</primaryColumnStart>
+    <primaryColumnEnd>5</primaryColumnEnd>
+    <build>13</build>
+    <authorName>Wahid Khan</authorName>
+    <authorEmail>wkhan@visualpathit.com</authorEmail>
+    <commitId>2d32135979285e1bd16d02580554badbc6e6a2be</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message reference="../../warning[46]/message"/>
+    <priority>HIGH</priority>
+    <key>4238155621348015736</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>15</start>
+        <end>15</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>15</primaryLineNumber>
+    <fileName reference="../../warning[5]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[5]/packageName"/>
+    <category>Javadoc</category>
+    <type>JavadocStyleCheck</type>
+    <contextHashCode>378002776</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/controller</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>13</build>
+    <authorName>Wahid Khan</authorName>
+    <authorEmail>wahid@gmail.com</authorEmail>
+    <commitId>1b829d9c8568b455a8c2e5cfa485acb96ad340eb</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message>&apos;+&apos; is not followed by whitespace.</message>
+    <priority>HIGH</priority>
+    <key>4238155621348015746</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>43</start>
+        <end>43</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>43</primaryLineNumber>
+    <fileName reference="../../warning[5]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[5]/packageName"/>
+    <category>Whitespace</category>
+    <type>WhitespaceAroundCheck</type>
+    <contextHashCode>-602307906</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/controller</pathName>
+    <primaryColumnStart>40</primaryColumnStart>
+    <primaryColumnEnd>40</primaryColumnEnd>
+    <build>13</build>
+    <authorName>Wahid Khan</authorName>
+    <authorEmail>wkhan@visualpathit.com</authorEmail>
+    <commitId>2d32135979285e1bd16d02580554badbc6e6a2be</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message reference="../../warning[4]/message"/>
+    <priority>HIGH</priority>
+    <key>4238155621348015679</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>8</start>
+        <end>8</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>8</primaryLineNumber>
+    <fileName reference="../../warning[26]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[3]/packageName"/>
+    <category>Javadoc</category>
+    <type>JavadocMethodCheck</type>
+    <contextHashCode>2076226851</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/service</pathName>
+    <primaryColumnStart>5</primaryColumnStart>
+    <primaryColumnEnd>5</primaryColumnEnd>
+    <build>13</build>
+    <authorName>Wahid Khan</authorName>
+    <authorEmail>wkhan@visualpathit.com</authorEmail>
+    <commitId>2d32135979285e1bd16d02580554badbc6e6a2be</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message reference="../../warning[4]/message"/>
+    <priority>HIGH</priority>
+    <key>4238155621348015737</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>18</start>
+        <end>18</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>18</primaryLineNumber>
+    <fileName reference="../../warning[5]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[5]/packageName"/>
+    <category>Javadoc</category>
+    <type>JavadocVariableCheck</type>
+    <contextHashCode>-1754544238</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/controller</pathName>
+    <primaryColumnStart>5</primaryColumnStart>
+    <primaryColumnEnd>5</primaryColumnEnd>
+    <build>13</build>
+    <authorName>Wahid Khan</authorName>
+    <authorEmail>wkhan@visualpathit.com</authorEmail>
+    <commitId>2d32135979285e1bd16d02580554badbc6e6a2be</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message reference="../../warning[3]/message"/>
+    <priority>HIGH</priority>
+    <key>4238155621348015743</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>37</start>
+        <end>37</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>37</primaryLineNumber>
+    <fileName reference="../../warning[5]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[5]/packageName"/>
+    <category>Whitespace</category>
+    <type>FileTabCharacterCheck</type>
+    <contextHashCode>673438739</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/controller</pathName>
+    <primaryColumnStart>5</primaryColumnStart>
+    <primaryColumnEnd>5</primaryColumnEnd>
+    <build>13</build>
+    <authorName>WK</authorName>
+    <authorEmail>wahid@gmail.com</authorEmail>
+    <commitId>cf20469d5b797ecef3547ad7a913022b55f4d385</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message reference="../../warning[5]/message"/>
+    <priority>HIGH</priority>
+    <key>4238155621348015729</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>0</start>
+        <end>0</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>0</primaryLineNumber>
+    <fileName reference="../../warning[23]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[14]/packageName"/>
+    <category>Javadoc</category>
+    <type>JavadocPackageCheck</type>
+    <contextHashCode>1262696466</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/repository</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>13</build>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message>Parameter aClass should be final.</message>
+    <priority>HIGH</priority>
+    <key>4238155621348015685</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>18</start>
+        <end>18</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>18</primaryLineNumber>
+    <fileName reference="../../warning[2]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[2]/packageName"/>
+    <category>Checks</category>
+    <type>FinalParametersCheck</type>
+    <contextHashCode>-1408787715</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/validator</pathName>
+    <primaryColumnStart>29</primaryColumnStart>
+    <primaryColumnEnd>29</primaryColumnEnd>
+    <build>13</build>
+    <authorName>Wahid Khan</authorName>
+    <authorEmail>wkhan@visualpathit.com</authorEmail>
+    <commitId>2d32135979285e1bd16d02580554badbc6e6a2be</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message>Method &apos;save&apos; is not designed for extension - needs to be abstract, final or empty.</message>
+    <priority>HIGH</priority>
+    <key>4238155621348015676</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>26</start>
+        <end>26</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>26</primaryLineNumber>
+    <fileName reference="../../warning[4]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[3]/packageName"/>
+    <category>Design</category>
+    <type>DesignForExtensionCheck</type>
+    <contextHashCode>-1098891018</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/service</pathName>
+    <primaryColumnStart>5</primaryColumnStart>
+    <primaryColumnEnd>5</primaryColumnEnd>
+    <build>13</build>
+    <authorName>Wahid Khan</authorName>
+    <authorEmail>wkhan@visualpathit.com</authorEmail>
+    <commitId>2d32135979285e1bd16d02580554badbc6e6a2be</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message>Line is longer than 80 characters (found 89).</message>
+    <priority>HIGH</priority>
+    <key>4238155621348015747</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>46</start>
+        <end>46</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>46</primaryLineNumber>
+    <fileName reference="../../warning[5]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[5]/packageName"/>
+    <category>Sizes</category>
+    <type>LineLengthCheck</type>
+    <contextHashCode>-1296732867</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/controller</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>13</build>
+    <authorName>Wahid Khan</authorName>
+    <authorEmail>wkhan@visualpathit.com</authorEmail>
+    <commitId>2d32135979285e1bd16d02580554badbc6e6a2be</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message reference="../../warning[31]/message"/>
+    <priority>HIGH</priority>
+    <key>4238155621348015664</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>41</start>
+        <end>41</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>41</primaryLineNumber>
+    <fileName reference="../../warning[3]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[3]/packageName"/>
+    <category>Regexp</category>
+    <type>RegexpSinglelineCheck</type>
+    <contextHashCode>-1883606310</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/service</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>13</build>
+    <authorName>Wahid Khan</authorName>
+    <authorEmail>wahid@gmail.com</authorEmail>
+    <commitId>365103d9d4b8e885c8b8074d06e5a92042113b6c</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message reference="../../warning[4]/message"/>
+    <priority>HIGH</priority>
+    <key>4238155621348015682</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>12</start>
+        <end>12</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>12</primaryLineNumber>
+    <fileName reference="../../warning[2]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[2]/packageName"/>
+    <category>Javadoc</category>
+    <type>JavadocTypeCheck</type>
+    <contextHashCode>456089581</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/validator</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>13</build>
+    <authorName>Wahid Khan</authorName>
+    <authorEmail>wkhan@visualpathit.com</authorEmail>
+    <commitId>2d32135979285e1bd16d02580554badbc6e6a2be</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message>Method &apos;getUsername&apos; is not designed for extension - needs to be abstract, final or empty.</message>
+    <priority>HIGH</priority>
+    <key>4238155621348015715</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>34</start>
+        <end>34</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>34</primaryLineNumber>
+    <fileName reference="../../warning[8]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[8]/packageName"/>
+    <category>Design</category>
+    <type>DesignForExtensionCheck</type>
+    <contextHashCode>1404325210</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/model</pathName>
+    <primaryColumnStart>5</primaryColumnStart>
+    <primaryColumnEnd>5</primaryColumnEnd>
+    <build>13</build>
+    <authorName>Wahid Khan</authorName>
+    <authorEmail>wkhan@visualpathit.com</authorEmail>
+    <commitId>2d32135979285e1bd16d02580554badbc6e6a2be</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message reference="../../warning[2]/message"/>
+    <priority>HIGH</priority>
+    <key>4238155621348015665</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>41</start>
+        <end>41</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>41</primaryLineNumber>
+    <fileName reference="../../warning[3]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[3]/packageName"/>
+    <category>Sizes</category>
+    <type>LineLengthCheck</type>
+    <contextHashCode>-777619931</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/service</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>13</build>
+    <authorName>Wahid Khan</authorName>
+    <authorEmail>wahid@gmail.com</authorEmail>
+    <commitId>365103d9d4b8e885c8b8074d06e5a92042113b6c</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message>Expected an @return tag.</message>
+    <priority>HIGH</priority>
+    <key>4238155621348015703</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>31</start>
+        <end>31</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>31</primaryLineNumber>
+    <fileName reference="../../warning[9]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[8]/packageName"/>
+    <category>Javadoc</category>
+    <type>JavadocMethodCheck</type>
+    <contextHashCode>-1196092931</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/model</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>13</build>
+    <authorName>Wahid Khan</authorName>
+    <authorEmail>wkhan@visualpathit.com</authorEmail>
+    <commitId>2d32135979285e1bd16d02580554badbc6e6a2be</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message reference="../../warning[49]/message"/>
+    <priority>HIGH</priority>
+    <key>4238155621348015732</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>7</start>
+        <end>7</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>7</primaryLineNumber>
+    <fileName reference="../../warning[23]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[14]/packageName"/>
+    <category>Whitespace</category>
+    <type>WhitespaceAroundCheck</type>
+    <contextHashCode>-1963442372</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/repository</pathName>
+    <primaryColumnStart>66</primaryColumnStart>
+    <primaryColumnEnd>66</primaryColumnEnd>
+    <build>13</build>
+    <authorName>Wahid Khan</authorName>
+    <authorEmail>wkhan@visualpathit.com</authorEmail>
+    <commitId>2d32135979285e1bd16d02580554badbc6e6a2be</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message reference="../../warning[31]/message"/>
+    <priority>HIGH</priority>
+    <key>4238155621348015708</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>49</start>
+        <end>49</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>49</primaryLineNumber>
+    <fileName reference="../../warning[9]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[8]/packageName"/>
+    <category>Regexp</category>
+    <type>RegexpSinglelineCheck</type>
+    <contextHashCode>-636748608</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/model</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>13</build>
+    <authorName>Wahid Khan</authorName>
+    <authorEmail>wahid@gmail.com</authorEmail>
+    <commitId>f78cd55903a4fd56f1debff3c8bc35f471da87c5</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message>Method &apos;loadUserByUsername&apos; is not designed for extension - needs to be abstract, final or empty.</message>
+    <priority>HIGH</priority>
+    <key>4238155621348015669</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>23</start>
+        <end>23</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>23</primaryLineNumber>
+    <fileName reference="../../warning[19]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[3]/packageName"/>
+    <category>Design</category>
+    <type>DesignForExtensionCheck</type>
+    <contextHashCode>-1413835766</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/service</pathName>
+    <primaryColumnStart>5</primaryColumnStart>
+    <primaryColumnEnd>5</primaryColumnEnd>
+    <build>13</build>
+    <authorName>Wahid Khan</authorName>
+    <authorEmail>wkhan@visualpathit.com</authorEmail>
+    <commitId>2d32135979285e1bd16d02580554badbc6e6a2be</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message>&apos;32&apos; is a magic number.</message>
+    <priority>HIGH</priority>
+    <key>4238155621348015692</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>27</start>
+        <end>27</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>27</primaryLineNumber>
+    <fileName reference="../../warning[2]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[2]/packageName"/>
+    <category>Coding</category>
+    <type>MagicNumberCheck</type>
+    <contextHashCode>21387280</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/validator</pathName>
+    <primaryColumnStart>78</primaryColumnStart>
+    <primaryColumnEnd>78</primaryColumnEnd>
+    <build>13</build>
+    <authorName>Wahid Khan</authorName>
+    <authorEmail>wkhan@visualpathit.com</authorEmail>
+    <commitId>2d32135979285e1bd16d02580554badbc6e6a2be</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message>&apos;,&apos; is preceded with whitespace.</message>
+    <priority>HIGH</priority>
+    <key>4238155621348015753</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>67</start>
+        <end>67</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>67</primaryLineNumber>
+    <fileName reference="../../warning[5]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[5]/packageName"/>
+    <category>Whitespace</category>
+    <type>NoWhitespaceBeforeCheck</type>
+    <contextHashCode>268719119</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/controller</pathName>
+    <primaryColumnStart>40</primaryColumnStart>
+    <primaryColumnEnd>40</primaryColumnEnd>
+    <build>13</build>
+    <authorName>WK</authorName>
+    <authorEmail>wahid@gmail.com</authorEmail>
+    <commitId>cf20469d5b797ecef3547ad7a913022b55f4d385</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message>Method &apos;autologin&apos; is not designed for extension - needs to be abstract, final or empty.</message>
+    <priority>HIGH</priority>
+    <key>4238155621348015662</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>38</start>
+        <end>38</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>38</primaryLineNumber>
+    <fileName reference="../../warning[3]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[3]/packageName"/>
+    <category>Design</category>
+    <type>DesignForExtensionCheck</type>
+    <contextHashCode>-1911296471</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/service</pathName>
+    <primaryColumnStart>5</primaryColumnStart>
+    <primaryColumnEnd>5</primaryColumnEnd>
+    <build>13</build>
+    <authorName>Wahid Khan</authorName>
+    <authorEmail>wkhan@visualpathit.com</authorEmail>
+    <commitId>2d32135979285e1bd16d02580554badbc6e6a2be</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message reference="../../warning[31]/message"/>
+    <priority>HIGH</priority>
+    <key>4238155621348015670</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>25</start>
+        <end>25</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>25</primaryLineNumber>
+    <fileName reference="../../warning[19]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[3]/packageName"/>
+    <category>Regexp</category>
+    <type>RegexpSinglelineCheck</type>
+    <contextHashCode>-262262256</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/service</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>13</build>
+    <authorName>Wahid Khan</authorName>
+    <authorEmail>wahid@gmail.com</authorEmail>
+    <commitId>365103d9d4b8e885c8b8074d06e5a92042113b6c</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message reference="../../warning[87]/message"/>
+    <priority>HIGH</priority>
+    <key>4238155621348015696</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>35</start>
+        <end>35</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>35</primaryLineNumber>
+    <fileName reference="../../warning[2]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[2]/packageName"/>
+    <category>Coding</category>
+    <type>MagicNumberCheck</type>
+    <contextHashCode>-292256867</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/validator</pathName>
+    <primaryColumnStart>78</primaryColumnStart>
+    <primaryColumnEnd>78</primaryColumnEnd>
+    <build>13</build>
+    <authorName>Wahid Khan</authorName>
+    <authorEmail>wkhan@visualpathit.com</authorEmail>
+    <commitId>2d32135979285e1bd16d02580554badbc6e6a2be</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message reference="../../warning[3]/message"/>
+    <priority>HIGH</priority>
+    <key>4238155621348015671</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>26</start>
+        <end>26</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>26</primaryLineNumber>
+    <fileName reference="../../warning[19]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[3]/packageName"/>
+    <category>Whitespace</category>
+    <type>FileTabCharacterCheck</type>
+    <contextHashCode>-1991576237</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/service</pathName>
+    <primaryColumnStart>5</primaryColumnStart>
+    <primaryColumnEnd>5</primaryColumnEnd>
+    <build>13</build>
+    <authorName>Wahid Khan</authorName>
+    <authorEmail>wahid@gmail.com</authorEmail>
+    <commitId>365103d9d4b8e885c8b8074d06e5a92042113b6c</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message reference="../../warning[49]/message"/>
+    <priority>HIGH</priority>
+    <key>4238155621348015751</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>56</start>
+        <end>56</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>56</primaryLineNumber>
+    <fileName reference="../../warning[5]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[5]/packageName"/>
+    <category>Whitespace</category>
+    <type>WhitespaceAroundCheck</type>
+    <contextHashCode>955873164</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/controller</pathName>
+    <primaryColumnStart>28</primaryColumnStart>
+    <primaryColumnEnd>28</primaryColumnEnd>
+    <build>13</build>
+    <authorName>WK</authorName>
+    <authorEmail>wahid@gmail.com</authorEmail>
+    <commitId>cf20469d5b797ecef3547ad7a913022b55f4d385</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message reference="../../warning[4]/message"/>
+    <priority>HIGH</priority>
+    <key>4238155621348015738</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>21</start>
+        <end>21</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>21</primaryLineNumber>
+    <fileName reference="../../warning[5]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[5]/packageName"/>
+    <category>Javadoc</category>
+    <type>JavadocVariableCheck</type>
+    <contextHashCode>-827877909</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/controller</pathName>
+    <primaryColumnStart>5</primaryColumnStart>
+    <primaryColumnEnd>5</primaryColumnEnd>
+    <build>13</build>
+    <authorName>Wahid Khan</authorName>
+    <authorEmail>wkhan@visualpathit.com</authorEmail>
+    <commitId>2d32135979285e1bd16d02580554badbc6e6a2be</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message>&apos;password&apos; hides a field.</message>
+    <priority>HIGH</priority>
+    <key>4238155621348015720</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>51</start>
+        <end>51</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>51</primaryLineNumber>
+    <fileName reference="../../warning[8]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[8]/packageName"/>
+    <category>Coding</category>
+    <type>HiddenFieldCheck</type>
+    <contextHashCode>1220748572</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/model</pathName>
+    <primaryColumnStart>48</primaryColumnStart>
+    <primaryColumnEnd>48</primaryColumnEnd>
+    <build>13</build>
+    <authorName>Wahid Khan</authorName>
+    <authorEmail>wahid@gmail.com</authorEmail>
+    <commitId>1b829d9c8568b455a8c2e5cfa485acb96ad340eb</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message reference="../../warning[2]/message"/>
+    <priority>HIGH</priority>
+    <key>4238155621348015663</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>40</start>
+        <end>40</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>40</primaryLineNumber>
+    <fileName reference="../../warning[3]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[3]/packageName"/>
+    <category>Sizes</category>
+    <type>LineLengthCheck</type>
+    <contextHashCode>-732883780</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/service</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>13</build>
+    <authorName>Wahid Khan</authorName>
+    <authorEmail>wkhan@visualpathit.com</authorEmail>
+    <commitId>2d32135979285e1bd16d02580554badbc6e6a2be</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message>Line is longer than 80 characters (found 81).</message>
+    <priority>HIGH</priority>
+    <key>4238155621348015667</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>49</start>
+        <end>49</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>49</primaryLineNumber>
+    <fileName reference="../../warning[3]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[3]/packageName"/>
+    <category>Sizes</category>
+    <type>LineLengthCheck</type>
+    <contextHashCode>1580841939</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/service</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>13</build>
+    <authorName>Wahid Khan</authorName>
+    <authorEmail>wkhan@visualpathit.com</authorEmail>
+    <commitId>2d32135979285e1bd16d02580554badbc6e6a2be</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message>Line is longer than 80 characters (found 84).</message>
+    <priority>HIGH</priority>
+    <key>4238155621348015752</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>57</start>
+        <end>57</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>57</primaryLineNumber>
+    <fileName reference="../../warning[5]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[5]/packageName"/>
+    <category>Sizes</category>
+    <type>LineLengthCheck</type>
+    <contextHashCode>-701910394</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/controller</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>13</build>
+    <authorName>Wahid Khan</authorName>
+    <authorEmail>wkhan@visualpathit.com</authorEmail>
+    <commitId>2d32135979285e1bd16d02580554badbc6e6a2be</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message>Line is longer than 80 characters (found 83).</message>
+    <priority>HIGH</priority>
+    <key>4238155621348015697</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>40</start>
+        <end>40</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>40</primaryLineNumber>
+    <fileName reference="../../warning[2]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[2]/packageName"/>
+    <category>Sizes</category>
+    <type>LineLengthCheck</type>
+    <contextHashCode>1837955923</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/validator</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>13</build>
+    <authorName>Wahid Khan</authorName>
+    <authorEmail>wkhan@visualpathit.com</authorEmail>
+    <commitId>2d32135979285e1bd16d02580554badbc6e6a2be</commitId>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message reference="../../warning[46]/message"/>
+    <priority>HIGH</priority>
+    <key>4238155621348015721</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>54</start>
+        <end>54</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>54</primaryLineNumber>
+    <fileName reference="../../warning[8]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[8]/packageName"/>
+    <category>Javadoc</category>
+    <type>JavadocStyleCheck</type>
+    <contextHashCode>1688441084</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>src/main/java/com/visualpathit/account/model</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>13</build>
+    <authorName>Wahid Khan</authorName>
+    <authorEmail>wahid@gmail.com</authorEmail>
+    <commitId>1b829d9c8568b455a8c2e5cfa485acb96ad340eb</commitId>
+  </warning>
+</annotation-array>

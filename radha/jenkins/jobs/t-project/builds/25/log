@@ -1,0 +1,12 @@
+Started by user [8mha:////4MYDhaMPbeU8aLirKS0X2q74vxccJWjpol5oxqQnDPjmAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAweoBn6pcWpRfpFiSkZidlFmcUZeYkAREPViccAAAA=[0mradhakrishna
+Building in workspace /var/lib/jenkins/workspace/t-project
+Copied 2 artifacts from "[8mha:////4O/asUk9WHfRovE56xD6MByHxeQH91Hzby/VCEwsh/3nAAAAkB+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMjgLGHg18/KT9JP0y0oys9KTS7RBwA0M43NlAAAAA==[0mf-project" build number [8mha:////4Nil9/J1f657dNRRtB39WqGYfsuABdkcGCv606Dk1pL2AAAAkh+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMhgApqhn5WfpJ+mW1CUn5WaXKJvaKIPAEJvQSqXAAAA[0m14
+Deploying /var/lib/jenkins/workspace/t-project/target/VProfile-1.0.war to container Tomcat 7.x Remote with context 
+  Redeploying [/var/lib/jenkins/workspace/t-project/target/VProfile-1.0.war]
+  Undeploying [/var/lib/jenkins/workspace/t-project/target/VProfile-1.0.war]
+  Deploying [/var/lib/jenkins/workspace/t-project/target/VProfile-1.0.war]
+Deploying /var/lib/jenkins/workspace/t-project/target/vprofile-v1.war to container Tomcat 7.x Remote with context 
+  Redeploying [/var/lib/jenkins/workspace/t-project/target/vprofile-v1.war]
+  Undeploying [/var/lib/jenkins/workspace/t-project/target/vprofile-v1.war]
+  Deploying [/var/lib/jenkins/workspace/t-project/target/vprofile-v1.war]
+Finished: SUCCESS

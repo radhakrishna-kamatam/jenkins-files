@@ -1,0 +1,22 @@
+Started by user [8mha:////4MYDhaMPbeU8aLirKS0X2q74vxccJWjpol5oxqQnDPjmAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAweoBn6pcWpRfpFiSkZidlFmcUZeYkAREPViccAAAA=[0mradhakrishna
+Building in workspace /var/lib/jenkins/workspace/ansible-tom
+[ansible-tom] $ ansible-playbook /home/ubuntu/deploy/ansible.yml -i /tmp/inventory5615485842468835599.ini -f 5 --private-key /tmp/ssh7294691563651493865.key -u ubuntu
+
+PLAY [tomcat] ******************************************************************
+
+TASK [Gathering Facts] *********************************************************
+ok: [tomcat]
+
+TASK [create directory] ********************************************************
+changed: [tomcat]
+
+TASK [take backup] *************************************************************
+changed: [tomcat]
+
+TASK [deploy to tomcat] ********************************************************
+ok: [tomcat]
+
+PLAY RECAP *********************************************************************
+tomcat                     : ok=4    changed=2    unreachable=0    failed=0   
+
+Finished: SUCCESS

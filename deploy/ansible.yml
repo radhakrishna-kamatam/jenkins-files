@@ -1,0 +1,15 @@
+---
+  - hosts: tomcat
+    become: yes
+    vars:
+      date: "{{ lookup('pipe' , ' date +%y-%m-%d-%H%M ') }}"
+
+    tasks:
+    - name: create directory
+      file: path=/opt/jenkins/jobs-warfile.{{date}} state=directory
+    - name: take backup
+      copy: src=/var/lib/jenkins/jobs/f-project/lastSuccessful/archive/target/vprofile-v1.war dest=/opt/jenkins/jobs-warfile.{{date}}
+    - name: deploy to tomcat
+      copy: src=/var/lib/jenkins/jobs/f-project/lastSuccessful/archive/target/vprofile-v1.war dest=/home/ubuntu/apache-tomcat-8.5.33/webapps/
+
+

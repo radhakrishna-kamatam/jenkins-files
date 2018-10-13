@@ -1,0 +1,21 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2018-09-11 11:58:43.29 UTC</timestamp>
+  <original>
+    <name>f-project</name>
+    <number>4</number>
+  </original>
+  <md5sum>edf2583ae8ed026e12dd043be97ac0a1</md5sum>
+  <fileName>vprofile-v1.war</fileName>
+  <usages>
+    <entry>
+      <string>f-project</string>
+      <ranges>4</ranges>
+    </entry>
+    <entry>
+      <string>t-project</string>
+      <ranges>5-9,13-16</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

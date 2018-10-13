@@ -1,0 +1,98 @@
+Started by user [8mha:////4MYDhaMPbeU8aLirKS0X2q74vxccJWjpol5oxqQnDPjmAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAweoBn6pcWpRfpFiSkZidlFmcUZeYkAREPViccAAAA=[0mradhakrishna
+Building in workspace /var/lib/jenkins/workspace/nexus
+ > git rev-parse --is-inside-work-tree # timeout=10
+Fetching changes from the remote Git repository
+ > git config remote.origin.url https://github.com/radhakrishna-kamatam/VProfile.git # timeout=10
+Fetching upstream changes from https://github.com/radhakrishna-kamatam/VProfile.git
+ > git --version # timeout=10
+ > git fetch --tags --progress https://github.com/radhakrishna-kamatam/VProfile.git +refs/heads/*:refs/remotes/origin/*
+ > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+ > git rev-parse refs/remotes/origin/origin/master^{commit} # timeout=10
+Checking out Revision ec824eefd1fd1bc20573fd91f8277f4b9a78be71 (refs/remotes/origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f ec824eefd1fd1bc20573fd91f8277f4b9a78be71
+Commit message: "Update README.md"
+ > git rev-list --no-walk ec824eefd1fd1bc20573fd91f8277f4b9a78be71 # timeout=10
+[nexus] $ /var/lib/jenkins/tools/hudson.tasks.Maven_MavenInstallation/maven3.3.9/bin/mvn install
+[INFO] Scanning for projects...
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Visualpathit VProfile Webapp 1.0
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[8mha:////4Eh3LBW23yXYRMbZz1fOXmfZRTXl/BmhzxjXzJVkxZyvAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ VProfile ---
+[8mha:////4BFEtmHP+mCZcnEs6x6E6abmaU4ZCl6PcZentnu+GAHCAAAAYx+LCAAAAAAAAP9b85aBtbiIQSWjNKU4P0+vJLE4u1gvPjexLDVPzxdEhicW5WXmpfvll6S2fNly5fzGzauYGBgqihikoFqS8/OK83NS9ZwhNEghAwQwghQWAACwxA+XYgAAAA==[0m[WARNING] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] Copying 4 resources
+[INFO] 
+[8mha:////4Eh3LBW23yXYRMbZz1fOXmfZRTXl/BmhzxjXzJVkxZyvAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- jacoco-maven-plugin:0.7.2.201409121644:prepare-agent (jacoco-initialize) @ VProfile ---
+[INFO] argLine set to -javaagent:/var/lib/jenkins/.m2/repository/org/jacoco/org.jacoco.agent/0.7.2.201409121644/org.jacoco.agent-0.7.2.201409121644-runtime.jar=destfile=/var/lib/jenkins/workspace/nexus/target/jacoco.exec
+[INFO] 
+[8mha:////4Eh3LBW23yXYRMbZz1fOXmfZRTXl/BmhzxjXzJVkxZyvAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ VProfile ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[8mha:////4Eh3LBW23yXYRMbZz1fOXmfZRTXl/BmhzxjXzJVkxZyvAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ VProfile ---
+[8mha:////4BFEtmHP+mCZcnEs6x6E6abmaU4ZCl6PcZentnu+GAHCAAAAYx+LCAAAAAAAAP9b85aBtbiIQSWjNKU4P0+vJLE4u1gvPjexLDVPzxdEhicW5WXmpfvll6S2fNly5fzGzauYGBgqihikoFqS8/OK83NS9ZwhNEghAwQwghQWAACwxA+XYgAAAA==[0m[WARNING] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory /var/lib/jenkins/workspace/nexus/src/test/resources
+[INFO] 
+[8mha:////4Eh3LBW23yXYRMbZz1fOXmfZRTXl/BmhzxjXzJVkxZyvAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- maven-compiler-plugin:3.1:testCompile (default-testCompile) @ VProfile ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[8mha:////4Eh3LBW23yXYRMbZz1fOXmfZRTXl/BmhzxjXzJVkxZyvAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- maven-surefire-plugin:2.12.4:test (default-test) @ VProfile ---
+[INFO] Surefire report directory: /var/lib/jenkins/workspace/nexus/target/surefire-reports
+
+-------------------------------------------------------
+ T E S T S
+-------------------------------------------------------
+Running com.visualpathit.account.controllerTest.SampleTest
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.153 sec
+
+Results :
+
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0
+
+[INFO] 
+[8mha:////4Eh3LBW23yXYRMbZz1fOXmfZRTXl/BmhzxjXzJVkxZyvAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- maven-war-plugin:2.2:war (default-war) @ VProfile ---
+[INFO] Packaging webapp
+[INFO] Assembling webapp [VProfile] in [/var/lib/jenkins/workspace/nexus/target/VProfile-1.0]
+[INFO] Processing war project
+[INFO] Copying webapp resources [/var/lib/jenkins/workspace/nexus/src/main/webapp]
+[INFO] Webapp assembled in [187 msecs]
+[INFO] Building war: /var/lib/jenkins/workspace/nexus/target/VProfile-1.0.war
+[INFO] WEB-INF/web.xml already added, skipping
+[INFO] 
+[8mha:////4Eh3LBW23yXYRMbZz1fOXmfZRTXl/BmhzxjXzJVkxZyvAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- jacoco-maven-plugin:0.7.2.201409121644:report (jacoco-site) @ VProfile ---
+[INFO] Analyzed bundle 'Visualpathit VProfile Webapp' with 7 classes
+[INFO] 
+[8mha:////4Eh3LBW23yXYRMbZz1fOXmfZRTXl/BmhzxjXzJVkxZyvAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- maven-install-plugin:2.4:install (default-install) @ VProfile ---
+[INFO] Installing /var/lib/jenkins/workspace/nexus/target/VProfile-1.0.war to /var/lib/jenkins/.m2/repository/com/visualpathit/VProfile/1.0/VProfile-1.0.war
+[INFO] Installing /var/lib/jenkins/workspace/nexus/pom.xml to /var/lib/jenkins/.m2/repository/com/visualpathit/VProfile/1.0/VProfile-1.0.pom
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 6.225 s
+[INFO] Finished at: 2018-09-25T04:41:37+00:00
+[INFO] Final Memory: 15M/37M
+[INFO] ------------------------------------------------------------------------
+Uploading artifact VProfile-1.0.war started....
+GroupId: dev
+ArtifactId: 20180925044129
+Classifier: 
+Type: war
+Version: $BUIL_ID
+File: VProfile-1.0.war
+Repository:repo
+Uploading: http://172.31.20.243:8081/nexus/content/repositories/repo/dev/20180925044129/$BUIL_ID/20180925044129-$BUIL_ID.war
+10 % completed (1.8 MB / 18 MB).
+20 % completed (3.6 MB / 18 MB).
+30 % completed (5.4 MB / 18 MB).
+40 % completed (7.3 MB / 18 MB).
+50 % completed (9.1 MB / 18 MB).
+60 % completed (11 MB / 18 MB).
+70 % completed (13 MB / 18 MB).
+80 % completed (15 MB / 18 MB).
+90 % completed (16 MB / 18 MB).
+100 % completed (18 MB / 18 MB).
+Uploaded: http://172.31.20.243:8081/nexus/content/repositories/repo/dev/20180925044129/$BUIL_ID/20180925044129-$BUIL_ID.war (18 MB at 40 MB/s)
+Uploading artifact VProfile-1.0.war completed.
+Archiving artifacts
+Finished: SUCCESS

@@ -1,0 +1,29 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2018-09-23 09:46:08.360 UTC</timestamp>
+  <original>
+    <name>f-project</name>
+    <number>9</number>
+  </original>
+  <md5sum>31671f1ceba5452e25f9b98bae55e8f4</md5sum>
+  <fileName>vprofile-v1.war</fileName>
+  <usages>
+    <entry>
+      <string>f-project</string>
+      <ranges>9-11,14-16,20</ranges>
+    </entry>
+    <entry>
+      <string>t-project</string>
+      <ranges>17-27</ranges>
+    </entry>
+    <entry>
+      <string>ansible-tom</string>
+      <ranges>1</ranges>
+    </entry>
+    <entry>
+      <string>nexus-project</string>
+      <ranges>12-21</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

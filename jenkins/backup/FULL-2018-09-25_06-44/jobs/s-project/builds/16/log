@@ -1,0 +1,46 @@
+Started by upstream project "[8mha:////4BSv7J8P8alhvD1qTliDXC7NM8pox6sCSJK+0qcex9cyAAAAmx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgZ+/az8JP003YKi/KzU5BJ9AAPcYo/EAAAA[0mf-project" build number [8mha:////4KM1CF5ZeGFgm1s2fYijRY3lvWWDXVKTPTFmKTTV1G2TAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAymEgZB/az8JP003YKi/KzU5BJ9QzMAjgcUhcYAAAA=[0m16
+originally caused by:
+ Started by user [8mha:////4MYDhaMPbeU8aLirKS0X2q74vxccJWjpol5oxqQnDPjmAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAweoBn6pcWpRfpFiSkZidlFmcUZeYkAREPViccAAAA=[0mradhakrishna
+Building in workspace /var/lib/jenkins/workspace/s-project
+ > git rev-parse --is-inside-work-tree # timeout=10
+Fetching changes from the remote Git repository
+ > git config remote.origin.url https://github.com/wkhanvisualpathit/VProfile.git # timeout=10
+Fetching upstream changes from https://github.com/wkhanvisualpathit/VProfile.git
+ > git --version # timeout=10
+ > git fetch --tags --progress https://github.com/wkhanvisualpathit/VProfile.git +refs/heads/*:refs/remotes/origin/*
+ > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+ > git rev-parse refs/remotes/origin/origin/master^{commit} # timeout=10
+Checking out Revision 8aa5db58397d0a810c579a1a6fe4c25b095d6b47 (refs/remotes/origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f 8aa5db58397d0a810c579a1a6fe4c25b095d6b47
+Commit message: "change for artefact version"
+ > git rev-list --no-walk 8aa5db58397d0a810c579a1a6fe4c25b095d6b47 # timeout=10
+[s-project] $ mvn checkstyle:checkstyle
+[INFO] Scanning for projects...
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Visualpathit VProfile Webapp v1
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[8mha:////4Eh3LBW23yXYRMbZz1fOXmfZRTXl/BmhzxjXzJVkxZyvAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- maven-checkstyle-plugin:3.0.0:checkstyle (default-cli) @ vprofile ---
+[8mha:////4BFEtmHP+mCZcnEs6x6E6abmaU4ZCl6PcZentnu+GAHCAAAAYx+LCAAAAAAAAP9b85aBtbiIQSWjNKU4P0+vJLE4u1gvPjexLDVPzxdEhicW5WXmpfvll6S2fNly5fzGzauYGBgqihikoFqS8/OK83NS9ZwhNEghAwQwghQWAACwxA+XYgAAAA==[0m[WARNING] File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!
+[INFO] There are 100 errors reported by Checkstyle 6.18 with sun_checks.xml ruleset.
+[8mha:////4BFEtmHP+mCZcnEs6x6E6abmaU4ZCl6PcZentnu+GAHCAAAAYx+LCAAAAAAAAP9b85aBtbiIQSWjNKU4P0+vJLE4u1gvPjexLDVPzxdEhicW5WXmpfvll6S2fNly5fzGzauYGBgqihikoFqS8/OK83NS9ZwhNEghAwQwghQWAACwxA+XYgAAAA==[0m[WARNING] Unable to locate Source XRef to link to - DISABLED
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 5.525 s
+[INFO] Finished at: 2018-09-24T11:31:15+00:00
+[INFO] Final Memory: 19M/47M
+[INFO] ------------------------------------------------------------------------
+[CHECKSTYLE] Collecting checkstyle analysis files...
+[CHECKSTYLE] Searching for all files in /var/lib/jenkins/workspace/s-project that match the pattern **/checkstyle-result.xml
+[CHECKSTYLE] Parsing 1 file in /var/lib/jenkins/workspace/s-project
+[CHECKSTYLE] Successfully parsed file /var/lib/jenkins/workspace/s-project/target/checkstyle-result.xml with 100 unique warnings and 0 duplicates.
+<Git Blamer> Using GitBlamer to create author and commit information for all warnings.
+<Git Blamer> GIT_COMMIT=8aa5db58397d0a810c579a1a6fe4c25b095d6b47, workspace=/var/lib/jenkins/workspace/s-project
+ > git rev-parse 8aa5db58397d0a810c579a1a6fe4c25b095d6b47^{commit} # timeout=10
+<Git Blamer> Skipping file /var/lib/jenkins/workspace/s-project/src/main/resources/validation.properties, no result found.
+[CHECKSTYLE] Computing warning deltas based on reference build #15
+Triggering a new build of [8mha:////4FU6yHJyAEiXOUb6xHD8Cc9oFBFeJfVaCc0Rot8HEua5AAAAmx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgZ+/az8JP0S3YKi/KzU5BJ9ANaNOazEAAAA[0mt-project
+Finished: SUCCESS

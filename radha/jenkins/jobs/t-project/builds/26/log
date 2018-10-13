@@ -1,0 +1,14 @@
+Started by upstream project "[8mha:////4KI2skj/ByG8OM9azlZC4cTHCSsrcAp08IV+5iNh40l8AAAAmx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgZ+/az8JP1i3YKi/KzU5BJ9AK+W5U7EAAAA[0ms-project" build number [8mha:////4GguyJ24KBvq7kzghYJSmhb5GFRr+t3udLWXPT1xLv/DAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAymEgZB/az8JP1i3YKi/KzU5BJ9Q1MA2MymiMYAAAA=[0m15
+originally caused by:
+ Started by upstream project "[8mha:////4BSv7J8P8alhvD1qTliDXC7NM8pox6sCSJK+0qcex9cyAAAAmx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgZ+/az8JP003YKi/KzU5BJ9AAPcYo/EAAAA[0mf-project" build number [8mha:////4ISTzOr+iOeffqk7Up8+jcqhS9JM1HHiogkgY9169eSjAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAymEgZB/az8JP003YKi/KzU5BJ9Q1MANFYdHMYAAAA=[0m15
+ originally caused by:
+  Started by user [8mha:////4MYDhaMPbeU8aLirKS0X2q74vxccJWjpol5oxqQnDPjmAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAweoBn6pcWpRfpFiSkZidlFmcUZeYkAREPViccAAAA=[0mradhakrishna
+Building in workspace /var/lib/jenkins/workspace/t-project
+Copied 2 artifacts from "[8mha:////4O/asUk9WHfRovE56xD6MByHxeQH91Hzby/VCEwsh/3nAAAAkB+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMjgLGHg18/KT9JP0y0oys9KTS7RBwA0M43NlAAAAA==[0mf-project" build number [8mha:////4Mk+5Mux9ofjndGkV7mnB8kW6HWhw5K+uDaQctm02KtKAAAAkh+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMhgApqhn5WfpJ+mW1CUn5WaXKJvaKoPAANeWjOXAAAA[0m15
+Deploying /var/lib/jenkins/workspace/t-project/target/VProfile-1.0.war to container Tomcat 7.x Remote with context 
+  [/var/lib/jenkins/workspace/t-project/target/VProfile-1.0.war] is not deployed. Doing a fresh deployment.
+  Deploying [/var/lib/jenkins/workspace/t-project/target/VProfile-1.0.war]
+Deploying /var/lib/jenkins/workspace/t-project/target/vprofile-v1.war to container Tomcat 7.x Remote with context 
+  [/var/lib/jenkins/workspace/t-project/target/vprofile-v1.war] is not deployed. Doing a fresh deployment.
+  Deploying [/var/lib/jenkins/workspace/t-project/target/vprofile-v1.war]
+Finished: SUCCESS

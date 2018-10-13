@@ -1,0 +1,25 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2018-09-23 10:06:48.439 UTC</timestamp>
+  <original>
+    <name>f-project</name>
+    <number>10</number>
+  </original>
+  <md5sum>5e20613f5a275c4d557fb9827c602279</md5sum>
+  <fileName>VProfile-1.0.war</fileName>
+  <usages>
+    <entry>
+      <string>f-project</string>
+      <ranges>10</ranges>
+    </entry>
+    <entry>
+      <string>t-project</string>
+      <ranges>18-20</ranges>
+    </entry>
+    <entry>
+      <string>ansible-tom</string>
+      <ranges>1</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

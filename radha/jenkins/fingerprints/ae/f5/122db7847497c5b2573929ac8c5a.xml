@@ -1,0 +1,21 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2018-09-25 04:17:05.867 UTC</timestamp>
+  <original>
+    <name>f-project</name>
+    <number>20</number>
+  </original>
+  <md5sum>aef5122db7847497c5b2573929ac8c5a</md5sum>
+  <fileName>VProfile-1.0.war</fileName>
+  <usages>
+    <entry>
+      <string>f-project</string>
+      <ranges>20</ranges>
+    </entry>
+    <entry>
+      <string>nexus-project</string>
+      <ranges>12-21</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>
