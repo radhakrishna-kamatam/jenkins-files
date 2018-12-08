@@ -2,7 +2,7 @@
 <org.codefirst.SimpleThemeDecorator plugin="simple-theme-plugin@0.5.1">
   <elements>
     <org.jenkinsci.plugins.simpletheme.CssUrlThemeElement>
-      <url>https://cdn.rawgit.com/afonsof/jenkins-material-theme/gh-pages/dist/material-indigo.css</url>
+      <url>https://cdn.jsdelivr.net/gh/afonsof/jenkins-material-theme@gh-pages/dist/material-indigo.css</url>
     </org.jenkinsci.plugins.simpletheme.CssUrlThemeElement>
   </elements>
 </org.codefirst.SimpleThemeDecorator>
